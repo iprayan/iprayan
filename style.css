@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+#mycarousel{
+    background-color: cadetblue;
+}
+#mycarousel img{
+    height:600px;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+#home img{
+    height:800px;
+    width:90%;
+}
+#grid img{
+    height:700px;
+}
+#home{
+    margin:100px;
+}
+#grid{
+    margin:100px;
+}
+#grid h2{
+    font-size:70px;
+    font-family: cursive;
+    background-color:floralwhite;
+    color:crimson;
+}
